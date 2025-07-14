@@ -1,0 +1,34 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.bilibili.com	TRUE	/	FALSE	1775786985	buvid3	9CFA91DB-F127-8DCD-00F9-75D17ED4252A88658infoc
+.bilibili.com	TRUE	/	FALSE	1775786985	b_nut	1744250988
+.bilibili.com	TRUE	/	FALSE	1775786986	_uuid	193CEFEE-2895-A695-37BD-BB2476452CD1086661infoc
+.bilibili.com	TRUE	/	FALSE	1784026134	enable_web_push	DISABLE
+.bilibili.com	TRUE	/	FALSE	1782448705	enable_feed_channel	ENABLE
+.bilibili.com	TRUE	/	FALSE	1787050142	buvid4	502EFF6F-65BC-5A99-FE59-34B095603C0389909-025041002-dL%2BT%2Fpa%2Bc%2BFpraKvNiWfaA%3D%3D
+.bilibili.com	TRUE	/	FALSE	1768025681	DedeUserID	241756593
+.bilibili.com	TRUE	/	FALSE	1768025681	DedeUserID__ckMd5	93d0728f70be65fb
+.bilibili.com	TRUE	/	FALSE	1778811079	rpdid	|(J|kk)luk)~0J'u~RRklu|)u
+.bilibili.com	TRUE	/	FALSE	1782277389	buvid_fp_plain	undefined
+.bilibili.com	TRUE	/	FALSE	1782277389	fingerprint	b915e1c28b567c42654207999551fa33
+.bilibili.com	TRUE	/	FALSE	1785301463	buvid_fp	b915e1c28b567c42654207999551fa33
+.bilibili.com	TRUE	/	FALSE	1782277679	CURRENT_BLACKGAP	0
+.bilibili.com	TRUE	/	FALSE	1786027528	PVID	2
+.bilibili.com	TRUE	/	FALSE	1784026134	home_feed_column	5
+.bilibili.com	TRUE	/	FALSE	1784026134	header_theme_version	OPEN
+.bilibili.com	TRUE	/	FALSE	1784030633	theme-tip-show	SHOWED
+.bilibili.com	TRUE	/	FALSE	1783738056	theme-avatar-tip-show	SHOWED
+.bilibili.com	TRUE	/	FALSE	1783738129	CURRENT_QUALITY	120
+.bilibili.com	TRUE	/	FALSE	1752501965	bili_ticket	eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTI1MDE5NjYsImlhdCI6MTc1MjI0MjcwNiwicGx0IjotMX0.LLsuH1QNG3VbZNSKkqMqgIkMJ-rSD2LhdoZ-tZVD0a4
+.bilibili.com	TRUE	/	FALSE	1752501965	bili_ticket_expires	1752501906
+.bilibili.com	TRUE	/	TRUE	1768025681	SESSDATA	012d77ff%2C1768025684%2C24c7a%2A72CjAi201QvzT4pJczSUDlKhpT3v2aSqTXrXxf-1kJGgrpXHY2orLQK5Iat4gEr38HeQQSVktYUlUtUkRuNzBOXzlwZE52MVhvX1RyZ3Q0QkI3WmpCOFFYNlNvTnJrdUNsemtxWlNMemlPQlctMmQ1Zy1QLTB5Qk82aVREOFloRmRFVHNyZFlPSXJRIIEC
+.bilibili.com	TRUE	/	FALSE	1768025681	bili_jct	903061549d5fc90f6e289c3c9e63767e
+.bilibili.com	TRUE	/	FALSE	1768025681	sid	71qwnx23
+.bilibili.com	TRUE	/	FALSE	1784026134	browser_resolution	2048-983
+search.bilibili.com	FALSE	/	FALSE	0	bmg_af_switch	1
+search.bilibili.com	FALSE	/	FALSE	0	bmg_src_def_domain	i1.hdslb.com
+.bilibili.com	TRUE	/	FALSE	1784030636	CURRENT_FNVAL	4048
+.bilibili.com	TRUE	/	FALSE	1755086940	bp_t_offset_241756593	1089446539421548544
+.bilibili.com	TRUE	/	FALSE	0	b_lsid	565105BA8_19808E0155A
